@@ -2,7 +2,7 @@
 
 20 mini web projects with vanilla JavaScript with no frameworks or libraries from Udemy course by Brad Traversy.
 
-<h2>Theses projects contains:</h2>
+<h2>These projects contains:</h2>
 <ul>
   <li>CSS Animations (Transitions, Keyframes, etc With JS Triggers)</li>
 <li>JavaScript Fundamentals</li>
